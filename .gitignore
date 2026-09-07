@@ -1,0 +1,6 @@
+KDDTest+.txt
+KDDTrain+.txt
+models/*.pkl
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
